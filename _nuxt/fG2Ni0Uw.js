@@ -1,1 +1,0 @@
-import{_ as t}from"./DlAUqK2U.js";import{c as r,o,q as s}from"./C0d0qc6j.js";const c={},l={class:"w-full h-full flex flex-col justify-center items-center dark:bg-neutral-900"};function n(e,a){return o(),r("div",l,[s(e.$slots,"default")])}const d=t(c,[["render",n]]);export{d as default};
