@@ -1,0 +1,667 @@
+[
+  {
+    "key": "studentpay",
+    "title": {
+      "en": "StudentPay",
+      "bn": "StudentPay"
+    },
+    "description": {
+      "en": "StudentPay brings student accounts, academic services, admissions, attendance, exam results, notices, and online payments into one education ERP app.",
+      "bn": "StudentPay brings student accounts, academic services, admissions, attendance, exam results, notices, and online payments into one education ERP app."
+    },
+    "types": [
+      "mobile"
+    ],
+    "cover": "https://play-lh.googleusercontent.com/gv2nl3guBHBUv4YdJBG_i93flSgP8GlrcKigXtC2BakalOHpWG-BF3Ruo2m2mSMp7yqY9_dHHExhqleCDAFUkg=w380-h680-rw",
+    "links": {
+      "playstore": "https://play.google.com/store/apps/details?id=erp.dynamichostbd.com"
+    },
+    "technologies": [
+      "Flutter",
+      "Dart",
+      "Laravel",
+      "Firebase",
+      "REST API"
+    ]
+  },
+  {
+    "key": "edubird",
+    "title": {
+      "en": "EduBird",
+      "bn": "EduBird"
+    },
+    "description": {
+      "en": "A digital education and payment platform for students and institutions, with online fees, academic services, and institutional account management.",
+      "bn": "A digital education and payment platform for students and institutions, with online fees, academic services, and institutional account management."
+    },
+    "types": [
+      "mobile"
+    ],
+    "cover": "https://play-lh.googleusercontent.com/L0uxeMcFS3rCBlVtaYYFcYLsoOwhlmngSY6n625IUpjV_TUyFWu206VzCfbgxtHwRz2Z-P-Gp7MOPFWq6tE=w380-h680-rw",
+    "links": {
+      "playstore": "https://play.google.com/store/apps/details?id=com.dynamichost.smartedubd"
+    },
+    "technologies": [
+      "Flutter",
+      "Dart",
+      "Laravel",
+      "Firebase",
+      "REST API"
+    ]
+  },
+  {
+    "key": "chuadanga_govt_college",
+    "title": {
+      "en": "Chuadanga Govt. College",
+      "bn": "Chuadanga Govt. College"
+    },
+    "description": {
+      "en": "The official college app for academic information, results, notices, digital documents, and secure online fee payments.",
+      "bn": "The official college app for academic information, results, notices, digital documents, and secure online fee payments."
+    },
+    "types": [
+      "mobile"
+    ],
+    "cover": "https://play-lh.googleusercontent.com/w54zlVnd4Rt3BcqiXtC_-m7RCztOMe4qLsOJiI32KaiGuewNYTdDwa4yiCAJ3Wtxg7UKdQjNi2coQYuBly2J9A=w340-h680-rw",
+    "links": {
+      "playstore": "https://play.google.com/store/apps/details?id=net.studentpay.cgc"
+    },
+    "technologies": [
+      "Flutter",
+      "Dart",
+      "Laravel",
+      "Firebase",
+      "REST API"
+    ]
+  },
+  {
+    "key": "rajendra_college",
+    "title": {
+      "en": "Rajendra College Faridpur",
+      "bn": "Rajendra College Faridpur"
+    },
+    "description": {
+      "en": "An institutional ERP app for students to access academic services, college notices, results, and online payments.",
+      "bn": "An institutional ERP app for students to access academic services, college notices, results, and online payments."
+    },
+    "types": [
+      "mobile"
+    ],
+    "cover": "https://lh3.googleusercontent.com/IKJyiSyGHRsj6UEWaArAItsT-a1Lc7w5_ma_qvoR1M-p5-QMsB2ji7ubOSzRcykhCvX6",
+    "links": {
+      "playstore": "https://play.google.com/store/apps/details?id=com.student.payment"
+    },
+    "technologies": [
+      "Flutter",
+      "Dart",
+      "Laravel",
+      "Firebase",
+      "REST API"
+    ]
+  },
+  {
+    "key": "carmichael_college",
+    "title": {
+      "en": "Carmichael College Rangpur",
+      "bn": "Carmichael College Rangpur"
+    },
+    "description": {
+      "en": "A college ERP application connecting students with academic services, institutional updates, and digital payments.",
+      "bn": "A college ERP application connecting students with academic services, institutional updates, and digital payments."
+    },
+    "types": [
+      "mobile"
+    ],
+    "cover": "https://lh3.googleusercontent.com/4Wf08dj8X8dep2dtS9JvzSMOF7r5B7lK7OjxEAlkrWyFpkwzCMgukjK_QgRKm5xDvoG-POtAQo2qll4dfWm9Vso",
+    "links": {
+      "playstore": "https://play.google.com/store/apps/details?id=ccr.student.payment"
+    },
+    "technologies": [
+      "Flutter",
+      "Dart",
+      "Laravel",
+      "Firebase",
+      "REST API"
+    ]
+  },
+  {
+    "key": "gopalganj_govt_college",
+    "title": {
+      "en": "Gopalganj Govt. College",
+      "bn": "Gopalganj Govt. College"
+    },
+    "description": {
+      "en": "The official college app for student services, academic information, notices, and online fee payments.",
+      "bn": "The official college app for student services, academic information, notices, and online fee payments."
+    },
+    "types": [
+      "mobile"
+    ],
+    "cover": "https://lh3.googleusercontent.com/sbiaOaPrXA4BSqsfC6AtQed8ILlTDeirCG3p9vuYac8lyefpqKV3053gX-8lVwxbXOUzzgngOjOmjHzWbe0NHM0",
+    "links": {
+      "playstore": "https://play.google.com/store/apps/details?id=com.dynamichostbd.bangabondhucollege"
+    },
+    "technologies": [
+      "Flutter",
+      "Dart",
+      "Laravel",
+      "Firebase",
+      "REST API"
+    ]
+  },
+  {
+    "key": "gssc_apps",
+    "title": {
+      "en": "GSSC APPS",
+      "bn": "GSSC APPS"
+    },
+    "description": {
+      "en": "An education ERP app for GSSC students and staff, providing institutional services and digital access to academic information.",
+      "bn": "An education ERP app for GSSC students and staff, providing institutional services and digital access to academic information."
+    },
+    "types": [
+      "mobile"
+    ],
+    "cover": "https://lh3.googleusercontent.com/sflrWxSZCFS3eJi0G_RS9txB0706ssqPc4lw50OvE3gdekvBp8W3X1CH4fIxiA8IMzQ",
+    "links": {
+      "playstore": "https://play.google.com/store/apps/details?id=com.dynamichost.gsscapp"
+    },
+    "technologies": [
+      "Flutter",
+      "Dart",
+      "Laravel",
+      "Firebase",
+      "REST API"
+    ]
+  },
+  {
+    "key": "pc_college_apps",
+    "title": {
+      "en": "PC COLLEGE APPS",
+      "bn": "PC COLLEGE APPS"
+    },
+    "description": {
+      "en": "A college ERP and e-payment application giving students mobile access to institutional and academic services.",
+      "bn": "A college ERP and e-payment application giving students mobile access to institutional and academic services."
+    },
+    "types": [
+      "mobile"
+    ],
+    "cover": "https://lh3.googleusercontent.com/JUuX4ZfMwoue4agUwpv2paS-t6TJ36AMq41CYv6j4PRMaDzxxLJWjQb5nLcxtAgVtzj0",
+    "links": {
+      "playstore": "https://play.google.com/store/apps/details?id=pcc.student.payment"
+    },
+    "technologies": [
+      "Flutter",
+      "Dart",
+      "Laravel",
+      "Firebase",
+      "REST API"
+    ]
+  },
+  {
+    "key": "sgc_shariatpur",
+    "title": {
+      "en": "SGC SHARIATPUR",
+      "bn": "SGC SHARIATPUR"
+    },
+    "description": {
+      "en": "A student services app for SGC Shariatpur with access to college information and digital education services.",
+      "bn": "A student services app for SGC Shariatpur with access to college information and digital education services."
+    },
+    "types": [
+      "mobile"
+    ],
+    "cover": "https://lh3.googleusercontent.com/0wvM3vfGHFgkTr8-3_rbhH40Oph7stnG-Ry7t11wwreuI7tr5MBKQW0tPIU7Z5gc7n4",
+    "links": {
+      "playstore": "https://play.google.com/store/apps/details?id=sgc.student.payment"
+    },
+    "technologies": [
+      "Flutter",
+      "Dart",
+      "Laravel",
+      "Firebase",
+      "REST API"
+    ]
+  },
+  {
+    "key": "flutter_al_hadith",
+    "title": {
+      "en": "Flutter Al-Hadith",
+      "bn": "Flutter Al-Hadith"
+    },
+    "description": {
+      "en": "Flutter Al-Hadith is a comprehensive Hadith collection app for Android and iPhone. It offers over 49,000 Hadiths from 24+ authentic sources, including Sahih al-Bukhari, Sahih Muslim, Sunan Abu Dawud, Malik's Muwatta, Hadith Qudsi, and the 40 Hadith of Imam Nawawi. Designed for ease of use, it provides a seamless reading experience for all users.",
+      "bn": "২৪+ নির্ভরযোগ্য ইসলামিক উৎস থেকে ৪৯,০০০+ হাদিসসহ একটি সমৃদ্ধ হাদিস সংগ্রহ অ্যাপ।"
+    },
+    "types": [
+      "mobile"
+    ],
+    "cover": "/projects/flutter_alhadith.png",
+    "links": {
+      "github": "https://github.com/ardevcraft/flutter_al_hadith"
+    },
+    "technologies": [
+      "Flutter",
+      "Dart",
+      "Firebase",
+      "MySQL"
+    ]
+  },
+  {
+    "key": "soul_player",
+    "title": {
+      "en": "Soul Player",
+      "bn": "Soul Player"
+    },
+    "description": {
+      "en": "Soul Player is a feature-rich music player built using Flutter. It provides a seamless listening experience with advanced audio controls and offline support.",
+      "bn": "উন্নত অডিও কন্ট্রোল, প্লেলিস্ট ব্যবস্থাপনা এবং অফলাইন প্লেব্যাকসহ একটি ফিচারসমৃদ্ধ মিউজিক প্লেয়ার।"
+    },
+    "types": [
+      "mobile"
+    ],
+    "cover": "/projects/soul_player.jpg",
+    "links": {
+      "github": "https://github.com/ardevcraft/soul_player"
+    },
+    "technologies": [
+      "Flutter",
+      "Dart",
+      "Android",
+      "iOS",
+      "Firebase",
+      "Linux",
+      "Arch Linux"
+    ]
+  },
+  {
+    "key": "dropit",
+    "title": {
+      "en": "DropiT",
+      "bn": "DropiT"
+    },
+    "description": {
+      "en": "DropiT is a cross-platform file-sharing application built with Flutter. It allows seamless and fast file transfers between devices, eliminating the need for external servers. With an intuitive interface, DropiT ensures effortless and secure file sharing.",
+      "bn": "ডিভাইসের মধ্যে দ্রুত ও নিরাপদ পিয়ার-টু-পিয়ার ফাইল ট্রান্সফারের জন্য একটি ক্রস-প্ল্যাটফর্ম অ্যাপ।"
+    },
+    "types": [
+      "mobile"
+    ],
+    "cover": "/projects/drop_it.png",
+    "links": {
+      "github": "https://github.com/ardevcraft/dropit"
+    },
+    "technologies": [
+      "Flutter",
+      "Dart",
+      "CSS",
+      "MongoDB"
+    ]
+  },
+  {
+    "key": "seba_motor_control",
+    "title": {
+      "en": "Seba Motor Control",
+      "bn": "Seba Motor Control"
+    },
+    "description": {
+      "en": "A smart submersible pump controller for remote operation from a smartphone, built with Kotlin and Flutter method channels.",
+      "bn": "Flutter ও Kotlin দিয়ে তৈরি রিমোট মনিটরিং এবং অপারেশনের জন্য একটি স্মার্ট IoT পাম্প কন্ট্রোল সমাধান।"
+    },
+    "types": [
+      "mobile",
+      "iot"
+    ],
+    "cover": "/projects/seba_motor_control.jpg",
+    "links": {
+      "github": "https://github.com/ardevcraft/seba_motor_control"
+    },
+    "technologies": [
+      "Flutter",
+      "Kotlin",
+      "Android",
+      "Dart",
+      "Firebase"
+    ]
+  },
+  {
+    "key": "riverpod_extended",
+    "title": {
+      "en": "Riverpod Extended",
+      "bn": "Riverpod Extended"
+    },
+    "description": {
+      "en": "An extension toolkit for Riverpod that simplifies state management, dependency injection, and scalable Flutter architecture.",
+      "bn": "Riverpod-এর জন্য একটি এক্সটেনশন টুলকিট যা স্টেট ম্যানেজমেন্ট, ডিপেন্ডেন্সি ইনজেকশন এবং স্কেলেবল Flutter আর্কিটেকচার সহজ করে।"
+    },
+    "types": [
+      "package"
+    ],
+    "cover": "/projects/state_extended.webp",
+    "links": {
+      "github": "https://github.com/ardevcraft/riverpod_extended"
+    },
+    "technologies": [
+      "Flutter",
+      "Dart",
+      "Riverpod"
+    ]
+  },
+  {
+    "key": "flutter_doctor",
+    "title": {
+      "en": "Flutter Doctor",
+      "bn": "Flutter Doctor"
+    },
+    "description": {
+      "en": "A shell-based Flutter installation helper for Linux, with setup guidance for Linux and Windows.",
+      "bn": "Linux ও Windows-এ Flutter ইনস্টলেশন এবং এনভায়রনমেন্ট সেটআপ সহজ করার একটি কমান্ড-লাইন টুল।"
+    },
+    "types": [
+      "package"
+    ],
+    "cover": "/projects/flutter_doc.png",
+    "links": {
+      "github": "https://github.com/ardevcraft/flutter-doctor"
+    },
+    "technologies": [
+      "Flutter",
+      "Dart",
+      "Python",
+      "Linux",
+      "Bash",
+      "Arch Linux"
+    ]
+  },
+  {
+    "key": "pdf_maker",
+    "title": {
+      "en": "PDF Maker",
+      "bn": "PDF Maker"
+    },
+    "description": {
+      "en": "A Flutter package for designing and generating customizable, multilingual PDFs with real-time previews.",
+      "bn": "রিয়েল-টাইম প্রিভিউসহ কাস্টমাইজযোগ্য ও বহুভাষিক PDF ডিজাইন এবং তৈরির জন্য একটি Flutter প্যাকেজ।"
+    },
+    "types": [
+      "package"
+    ],
+    "cover": "/projects/pdf_makers.png",
+    "links": {
+      "github": "https://github.com/ardevcraft/pdf_maker",
+      "live": "https://pub.dev/packages/pdf_maker"
+    },
+    "technologies": [
+      "Flutter",
+      "Dart"
+    ]
+  },
+  {
+    "key": "bangla_pdf_fixer",
+    "title": {
+      "en": "Bangla PDF Fixer",
+      "bn": "Bangla PDF Fixer"
+    },
+    "description": {
+      "en": "A Flutter package for correct Bengali PDF rendering, now built on OpenType shaping with pdf_text_shaper and HarfBuzz.",
+      "bn": "২২+ এমবেডেড ফন্ট সমর্থনসহ PDF-এ বাংলা ফন্ট রেন্ডারিং সমস্যা সমাধানের জন্য একটি Flutter প্যাকেজ।"
+    },
+    "types": [
+      "package"
+    ],
+    "cover": "/projects/pdf_fixer.png",
+    "links": {
+      "github": "https://github.com/ardevcraft/bangla_pdf_fixer",
+      "live": "https://pub.dev/packages/bangla_pdf_fixer"
+    },
+    "technologies": [
+      "Flutter",
+      "Dart"
+    ]
+  },
+  {
+    "key": "flutter_addons",
+    "title": {
+      "en": "Flutter Addons",
+      "bn": "Flutter Addons"
+    },
+    "description": {
+      "en": "A productivity-focused micro-extension framework for building responsive, theme-aware Flutter applications with reusable add-ons.",
+      "bn": "রেসপন্সিভ এবং থিম-সচেতন অ্যাপ দ্রুত তৈরির জন্য প্রোডাক্টিভিটি-কেন্দ্রিক Flutter এক্সটেনশনের একটি সংগ্রহ।"
+    },
+    "types": [
+      "package"
+    ],
+    "cover": "/projects/flutter_addon.png",
+    "links": {
+      "github": "https://github.com/ardevcraft/flutter_addons",
+      "live": "https://pub.dev/packages/flutter_addons"
+    },
+    "technologies": [
+      "Flutter",
+      "Dart",
+      "Markdown"
+    ]
+  },
+  {
+    "key": "arcam_universal",
+    "title": {
+      "en": "ARCam Universal",
+      "bn": "ARCam Universal"
+    },
+    "description": {
+      "en": "A customized GCam/LMC camera mod featuring optimized XML configurations and advanced photography controls.",
+      "bn": "অপ্টিমাইজড XML কনফিগারেশন এবং উন্নত ফটোগ্রাফি কন্ট্রোলসহ একটি কাস্টম GCam/LMC ক্যামেরা মড।"
+    },
+    "types": [
+      "mobile"
+    ],
+    "cover": "/projects/arcam_uni.jpg",
+    "links": {
+      "github": "https://github.com/ardevcraft/ARCam-Universal",
+      "live": "https://github.com/ardevcraft/ARCam-Universal/releases/download/v1.0.8.4-r17/arcam_v1.0.8.4-r17.apk"
+    },
+    "technologies": [
+      "Android",
+      "Kotlin"
+    ]
+  },
+  {
+    "key": "next_blog_api",
+    "title": {
+      "en": "Next Blog API",
+      "bn": "Next Blog API"
+    },
+    "description": {
+      "en": "A scalable blogging platform and API built with Node.js, TypeScript, MongoDB, and Prisma for modern content management.",
+      "bn": "আধুনিক কনটেন্ট ম্যানেজমেন্টের জন্য Node.js, TypeScript, MongoDB ও Prisma দিয়ে তৈরি একটি স্কেলেবল ব্লগিং প্ল্যাটফর্ম ও API।"
+    },
+    "types": [
+      "web"
+    ],
+    "cover": "/projects/rest_api.jpg",
+    "links": {
+      "github": "https://github.com/ardevcraft/next_blog_api"
+    },
+    "technologies": [
+      "NodeJS",
+      "TypeScript",
+      "MongoDB",
+      "Express",
+      "PostgreSQL",
+      "JavaScript",
+      "Node.js",
+      "Tailwind CSS",
+      "Svelte",
+      "Prisma"
+    ]
+  },
+  {
+    "key": "pdf_text_shaper",
+    "title": {
+      "en": "pdf_text_shaper",
+      "bn": "pdf_text_shaper"
+    },
+    "description": {
+      "en": "HarfBuzz-powered OpenType shaping for complex scripts in Dart PDFs, with font fallback and an optional searchable Unicode text layer.",
+      "bn": "HarfBuzz-ভিত্তিক OpenType shaping, font fallback এবং PDF-এ Unicode text search-এর সুবিধাসহ Dart-এর complex-script PDF টুল।"
+    },
+    "types": [
+      "package"
+    ],
+    "cover": "/projects/pdf_fixer.png",
+    "links": {
+      "github": "https://github.com/ardevcraft/pdf_text_shaper",
+      "live": "https://pub.dev/packages/pdf_text_shaper"
+    },
+    "technologies": [
+      "Dart",
+      "HarfBuzz",
+      "PDF",
+      "OpenType"
+    ]
+  },
+  {
+    "key": "daily_news_clean_architecture",
+    "title": {
+      "en": "Daily News",
+      "bn": "Daily News"
+    },
+    "description": {
+      "en": "A Flutter news app exploring Clean Architecture, BLoC and Riverpod state management, Floor persistence, and REST API integration.",
+      "bn": "Clean Architecture, BLoC ও Riverpod state management, Floor persistence এবং REST API-সহ Flutter সংবাদ অ্যাপ।"
+    },
+    "types": [
+      "mobile"
+    ],
+    "cover": "/projects/blog_api.png",
+    "links": {
+      "github": "https://github.com/ardevcraft/daily_news_clean_architecture"
+    },
+    "technologies": [
+      "Flutter",
+      "Dart",
+      "BLoC",
+      "Riverpod",
+      "REST API"
+    ]
+  },
+  {
+    "key": "popsicle",
+    "title": {
+      "en": "Popsicle",
+      "bn": "Popsicle"
+    },
+    "description": {
+      "en": "🍭 Popsicle is a lightweight, reactive state management and DI framework for Flutter. Built on the philosophy f(state) = UI, it simplifies building scalable, declarative apps.",
+      "bn": "🍭 Popsicle হল একটি হালকা, প্রতিক্রিয়াশীল স্টেট ম্যানেজমেন্ট এবং DI ফ্রেমওয়ার্ক, যা Flutter-এর জন্য তৈরি। এটি f(state) = UI দর্শনের উপর ভিত্তি করে নির্মিত, যা স্কেলেবল ও ডিক্লারেটিভ অ্যাপ তৈরি করা সহজ করে।"
+    },
+    "types": [
+      "package"
+    ],
+    "cover": "/projects/micro_state.webp",
+    "links": {
+      "github": "https://github.com/ardevcraft/popsicle",
+      "live": "https://pub.dev/packages/popsicle"
+    },
+    "technologies": [
+      "Flutter",
+      "Dart"
+    ]
+  },
+  {
+    "key": "easy_mart",
+    "title": {
+      "en": "Easy Mart",
+      "bn": "Easy Mart"
+    },
+    "description": {
+      "en": "Easy Mart is a complete e-commerce business management solution. This CMS provides everything needed to build and manage an online store efficiently.",
+      "bn": "Easy Mart হল একটি পূর্ণাঙ্গ ই-কমার্স ব্যবসা ব্যবস্থাপনা সমাধান। এই CMS-এর মাধ্যমে সহজেই একটি অনলাইন স্টোর তৈরি ও পরিচালনা করা সম্ভব।"
+    },
+    "types": [
+      "mobile"
+    ],
+    "cover": "/projects/easy_mart.png",
+    "links": {},
+    "technologies": [
+      "Flutter",
+      "Dart",
+      "Firebase"
+    ]
+  },
+  {
+    "key": "pac_circle",
+    "title": {
+      "en": "PAC Circle",
+      "bn": "PAC Circle"
+    },
+    "description": {
+      "en": "PAC Circle is a simple yet engaging Pac-Man-inspired game built with Angular. It provides a fun and nostalgic experience for players of all ages.",
+      "bn": "PAC Circle হল একটি সহজ কিন্তু মজাদার প্যাকম্যান-অনুপ্রাণিত গেম, যা Angular ব্যবহার করে তৈরি করা হয়েছে। এটি সকল বয়সের খেলোয়াড়দের জন্য একটি নস্টালজিক এবং উপভোগ্য অভিজ্ঞতা প্রদান করে।"
+    },
+    "types": [
+      "web"
+    ],
+    "cover": "/projects/pac_circle.png",
+    "links": {
+      "github": "https://github.com/ardevcraft/pacman_circle",
+      "live": "https://arrahmanbd.github.io/pacman_circle"
+    },
+    "technologies": [
+      "JavaScript",
+      "Pygame",
+      "Tailwind CSS"
+    ]
+  },
+  {
+    "key": "portfolio_project",
+    "title": {
+      "en": "Portfolio Project",
+      "bn": "Portfolio Project"
+    },
+    "description": {
+      "en": "I developed this professional portfolio website using Vue.js, TypeScript, and Tailwind CSS to showcase my work and creative journey.",
+      "bn": "আমি এই পোর্টফোলিও ওয়েবসাইটটি তৈরি করেছি, যা Vue.js, TypeScript এবং Tailwind CSS ব্যবহার করে নির্মিত হয়েছে, কাজ এবং সৃজনশীল পথচলাকে উপস্থাপন করতে।"
+    },
+    "types": [
+      "web"
+    ],
+    "cover": "/projects/portfolio-levi-lea.webp",
+    "links": {
+      "github": "https://arrahmanbd.github.io",
+      "live": "https://arrahmanbd.github.io"
+    },
+    "technologies": [
+      "Vue.js",
+      "TypeScript",
+      "Tailwind CSS",
+      "Swiper.js"
+    ]
+  },
+  {
+    "key": "school_of_the_future_training",
+    "title": {
+      "en": "School of the Future – Python Training",
+      "bn": "School of the Future – Python Training"
+    },
+    "description": {
+      "en": "An initiative by the ICT Division of Bangladesh, providing hands-on Python programming training. Trained 270+ students across three venues, focusing on coding fundamentals, problem-solving, and real-world applications.",
+      "bn": "বাংলাদেশের আইসিটি বিভাগের একটি উদ্যোগ, যা হাতে-কলমে পাইথন প্রোগ্রামিং প্রশিক্ষণ প্রদান করে। তিনটি ভেন্যুতে ২৭০+ শিক্ষার্থীকে প্রশিক্ষণ দেওয়া হয়েছে, যেখানে কোডিং মৌলিক বিষয়, সমস্যা সমাধান এবং বাস্তব প্রয়োগ শেখানো হয়।"
+    },
+    "types": [
+      "training"
+    ],
+    "cover": "/projects/ict_prooject.webp",
+    "links": {
+      "github": "https://ictd.gov.bd",
+      "live": "https://ictd.gov.bd"
+    },
+    "technologies": [
+      "Python",
+      "ictd",
+      "education"
+    ]
+  }
+]

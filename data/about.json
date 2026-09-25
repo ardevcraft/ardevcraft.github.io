@@ -1,0 +1,20 @@
+{
+  "title": {
+    "en": "About Me",
+    "bn": "আমার সম্পর্কে"
+  },
+  "paragraphs": [
+    {
+      "en": "I enjoy building Flutter applications that are simple, fast, and reliable. For me, a great product is not just about features—it's about creating an experience backed by thoughtful design, careful planning, and solid developering.",
+      "bn": "আমি Flutter দিয়ে এমন অ্যাপ তৈরি করতে ভালোবাসি, যা ব্যবহারকারীর জন্য সহজ, দ্রুত এবং নির্ভরযোগ্য। একটি ভালো পণ্য শুধু ফিচারের সমষ্টি নয়—এর পেছনে থাকে সঠিক পরিকল্পনা, সুন্দর নকশা এবং শক্তিশালী প্রযুক্তিগত ভিত্তি।"
+    },
+    {
+      "en": "Clean code, maintainable architecture, and practical problem-solving are at the heart of my work. I enjoy turning complex requirements into solutions that are efficient, scalable, and easy to evolve over time.",
+      "bn": "পরিচ্ছন্ন কোড লেখা, সফটওয়্যারকে সহজে রক্ষণাবেক্ষণযোগ্য রাখা এবং জটিল সমস্যার কার্যকর সমাধান বের করা আমার কাজের মূল অংশ। আমি সবসময় চেষ্টা করি এমন সমাধান তৈরি করতে, যা শুধু বর্তমান নয়, ভবিষ্যতের চাহিদাও পূরণ করতে পারে।"
+    },
+    {
+      "en": "Technology constantly gives me new opportunities to learn and grow. Whether I'm exploring new tools, improving my skills, or experimenting with new ideas, I am always looking for better ways to build meaningful software.",
+      "bn": "নতুন প্রযুক্তি শেখা এবং নতুন ধারণা নিয়ে কাজ করা আমাকে সবসময় উৎসাহিত করে। প্রযুক্তির পরিবর্তনশীল জগতে নিজেকে প্রতিনিয়ত উন্নত করা এবং বাস্তব সমস্যার জন্য কার্যকর সমাধান তৈরি করাই আমার সবচেয়ে বড় প্রেরণা।"
+    }
+  ]
+}

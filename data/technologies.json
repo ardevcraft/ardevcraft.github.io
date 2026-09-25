@@ -1,0 +1,148 @@
+[
+  {
+    "name": "Flutter",
+    "title": "Flutter",
+    "icon": "brand-flutter",
+    "categories": [
+      "mobile"
+    ]
+  },
+  {
+    "name": "Dart",
+    "title": "Dart",
+    "icon": "code",
+    "categories": [
+      "mobile",
+      "language"
+    ]
+  },
+
+  {
+    "name": "Kotlin",
+    "title": "Kotlin",
+    "icon": "brand-kotlin",
+    "categories": [
+      "mobile",
+      "language"
+    ]
+  },
+  {
+    "name": "Python",
+    "title": "Python",
+    "icon": "brand-python",
+    "categories": [
+      "language",
+      "backend"
+    ]
+  },
+  {
+    "name": "Godot",
+    "title": "Godot",
+    "icon": "device-gamepad-2",
+    "categories": [
+      "game-development"
+    ]
+  },
+  {
+    "name": "Next.js",
+    "title": "Next.js",
+    "icon": "brand-nextjs",
+    "categories": [
+      "frontend",
+      "backend"
+    ]
+  },
+  {
+    "name": "TypeScript",
+    "title": "TypeScript",
+    "icon": "brand-typescript",
+    "categories": [
+      "language",
+      "frontend",
+      "backend"
+    ]
+  },
+  {
+    "name": "NodeJS",
+    "title": "Node.js",
+    "icon": "brand-nodejs",
+    "categories": [
+      "backend"
+    ]
+  },
+  {
+    "name": "REST API",
+    "title": "REST API",
+    "icon": "plug",
+    "categories": [
+      "backend"
+    ]
+  },
+  {
+    "name": "PostgreSQL",
+    "title": "PostgreSQL",
+    "icon": "database",
+    "categories": [
+      "database"
+    ]
+  },
+  {
+    "name": "MySQL",
+    "title": "MySQL",
+    "icon": "database",
+    "categories": [
+      "database"
+    ]
+  },
+  {
+    "name": "Firebase",
+    "title": "Firebase",
+    "icon": "database",
+    "categories": [
+      "backend",
+      "database"
+    ]
+  },
+  {
+    "name": "MongoDB",
+    "title": "MongoDB",
+    "icon": "flame",
+    "categories": [
+      "backend",
+      "database"
+    ]
+  },
+
+  {
+    "name": "Git",
+    "title": "Git",
+    "icon": "brand-git",
+    "categories": [
+      "devops"
+    ]
+  },
+  {
+    "name": "GitHub",
+    "title": "GitHub",
+    "icon": "brand-github",
+    "categories": [
+      "devops"
+    ]
+  },
+  {
+    "name": "Docker",
+    "title": "Docker",
+    "icon": "brand-docker",
+    "categories": [
+      "devops"
+    ]
+  },
+  {
+    "name": "Linux",
+    "title": "Linux",
+    "icon": "terminal",
+    "categories": [
+      "devops"
+    ]
+  }
+]

@@ -1,0 +1,112 @@
+{
+  "projects": {
+    "en": "Built with Passion",
+    "bn": "ভালোবাসায় তৈরি"
+  },
+  "experience": {
+    "en": "Experience",
+    "bn": "অভিজ্ঞতা"
+  },
+  "technologies": {
+    "en": "Technologies",
+    "bn": "প্রযুক্তি"
+  },
+  "technologySubtitle": {
+    "en": "A dynamic blueprint of frameworks, engines, and core stacks I operate.",
+    "bn": "আমি যে ফ্রেমওয়ার্ক, ইঞ্জিন ও কোর স্ট্যাক ব্যবহার করি তার একটি সংক্ষিপ্ত চিত্র।"
+  },
+  "achievements": {
+    "en": "Achievement",
+    "bn": "অর্জন"
+  },
+  "education": {
+    "en": "Education & Training",
+    "bn": "শিক্ষা ও প্রশিক্ষণ"
+  },
+  "hobbies": {
+    "en": "Hobbies",
+    "bn": "ভালো লাগে"
+  },
+  "showAll": {
+    "en": "Show all",
+    "bn": "সব দেখান"
+  },
+  "showLess": {
+    "en": "Show less",
+    "bn": "কম দেখান"
+  },
+  "live": {
+    "en": "Live",
+    "bn": "লাইভ"
+  },
+  "technologiesLabel": {
+    "en": "Technologies",
+    "bn": "প্রযুক্তি"
+  },
+  "madeBy": {
+    "en": "Made by",
+    "bn": "তৈরি করেছেন"
+  },
+  "with": {
+    "en": "#Stand with",
+    "bn": "#প্যালেস্টাইন এর পক্ষে"
+  },
+  "filters": {
+    "all": {
+      "en": "ALL",
+      "bn": "সব"
+    },
+    "mobile": {
+      "en": "MOBILE",
+      "bn": "মোবাইল"
+    },
+    "web": {
+      "en": "WEB",
+      "bn": "ওয়েব"
+    },
+    "iot": {
+      "en": "IOT",
+      "bn": "IOT"
+    },
+    "package": {
+      "en": "PACKAGE",
+      "bn": "প্যাকেজ"
+    },
+    "frontend": {
+      "en": "FRONTEND",
+      "bn": "ফ্রন্টএন্ড"
+    },
+    "database": {
+      "en": "DATABASE",
+      "bn": "ডাটাবেস"
+    },
+    "devops": {
+      "en": "DEVOPS",
+      "bn": "ডেভঅপস"
+    },
+    "language": {
+      "en": "LANGUAGE",
+      "bn": "ভাষা"
+    },
+    "backend": {
+      "en": "BACKEND",
+      "bn": "ব্যাকএন্ড"
+    },
+    "training": {
+      "en": "TRAINING",
+      "bn": "প্রশিক্ষণ"
+    }
+  },
+  "previous": {
+    "en": "Previous",
+    "bn": "আগের"
+  },
+  "next": {
+    "en": "Next",
+    "bn": "পরের"
+  },
+  "page": {
+    "en": "Page",
+    "bn": "পৃষ্ঠা"
+  }
+}

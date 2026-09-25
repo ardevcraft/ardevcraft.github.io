@@ -1,0 +1,14 @@
+[
+  {
+    "institution": { "en": "ICT Division", "bn": "আইসিটি ডিভিশন" },
+    "program": { "en": "Cross-Platform Flutter App Development", "bn": "ক্রস-প্ল্যাটফর্ম ফ্লাটার অ্যাপ ডেভেলপমেন্ট" },
+    "duration": { "en": "2021 - 2022", "bn": "২০২১ - ২০২২" },
+    "url": ""
+  },
+  {
+    "institution": { "en": "National University", "bn": "জাতীয় বিশ্ববিদ্যালয়" },
+    "program": { "en": "Bachelor of Science (Honors) in Physics", "bn": "পদার্থবিজ্ঞানে বি.এসসি (BSc) সম্মান" },
+    "duration": { "en": "2018 - 2024", "bn": "২০১৮ - ২০২৪" },
+    "url": ""
+  }
+]

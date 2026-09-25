@@ -1,0 +1,8 @@
+[
+  { "title": { "en": "Driving", "bn": "বাইক চালানো" }, "emoji": "🏍️" },
+  { "title": { "en": "Gaming", "bn": "গেম খেলা" }, "emoji": "🕹️" },
+  { "title": { "en": "Programming", "bn": "প্রোগ্রামিং" }, "emoji": "🖥️" },
+  { "title": { "en": "Reading", "bn": "পড়া" }, "emoji": "📖" },
+  { "title": { "en": "Traveling", "bn": "ভ্রমণ" }, "emoji": "✈️" },
+  { "title": { "en": "Watching Movies", "bn": "সিনেমা দেখা" }, "emoji": "🎬" }
+]

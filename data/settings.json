@@ -1,0 +1,23 @@
+{
+  "pacmanUrl": "https://arrahmanbd.github.io/pacman_circle/",
+  "memes": [
+    {
+      "title": "Never Gonna Give You Up!",
+      "text": "Surprise! You've been Rickrolled! 🎶",
+      "image": "https://media.tenor.com/x8v1oNUOmg4AAAAd/rickroll-roll.gif",
+      "realityCheck": "You just got Rickrolled, but hey, don't worry, it's all in good fun!"
+    },
+    {
+      "title": "Uh-oh, Someone's Googling me too much!",
+      "text": "Hmmmm, Hackerman 🕶️💻",
+      "image": "https://media1.tenor.com/m/2HR27E2AJzkAAAAC/hackerman-mr.gif",
+      "realityCheck": "Wearing sunglasses and typing in the terminal doesn’t actually turn you into a hacker... but nice try!"
+    },
+    {
+      "title": "Reality Check",
+      "text": "Is this what you think debugging looks like? 🤔",
+      "image": "https://media1.tenor.com/m/5fXOP8eurtkAAAAC/mr-robot.gif",
+      "realityCheck": "Real programmers don’t ‘fix’ bugs, they just comment them out and pray. 💻🧑‍💻"
+    }
+  ]
+}

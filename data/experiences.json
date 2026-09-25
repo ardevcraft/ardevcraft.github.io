@@ -1,0 +1,127 @@
+[
+  {
+    "key": "dynamic_host",
+    "company": {
+      "en": "DynamicHost BD",
+      "bn": "DynamicHost BD"
+    },
+    "role": {
+      "en": "Senior Flutter Developer",
+      "bn": "Senior Flutter Developer"
+    },
+    "type": {
+      "en": "Mobile Application Development",
+      "bn": "মোবাইল অ্যাপ্লিকেশন ডেভেলপমেন্ট"
+    },
+    "duration": {
+      "en": "Jan 2025 - Present",
+      "bn": "জানুয়ারি ২০২৫ - বর্তমান"
+    },
+    "url": "https://dynamichostbd.com/",
+    "description": {
+      "en": [
+        "Leading end-to-end Flutter application development",
+        "Architecting scalable and maintainable mobile solutions",
+        "Solely responsible for project planning, development, deployment, and maintenance",
+        "Implementing clean architecture, Riverpod, and enterprise-grade code standards",
+        "Publishing and maintaining production apps on Google Play Store",
+        "Managing API integrations, performance optimization, and feature delivery"
+      ],
+      "bn": [
+        "Flutter ব্যবহার করে পূর্ণাঙ্গ মোবাইল অ্যাপ্লিকেশন ডেভেলপমেন্টে নেতৃত্ব প্রদান",
+        "স্কেলযোগ্য ও দীর্ঘমেয়াদে রক্ষণাবেক্ষণযোগ্য মোবাইল সমাধানের আর্কিটেকচার ডিজাইন",
+        "প্রকল্প পরিকল্পনা, ডেভেলপমেন্ট, ডিপ্লয়মেন্ট ও রক্ষণাবেক্ষণের সম্পূর্ণ দায়িত্ব পালন",
+        "Clean Architecture, Riverpod এবং Enterprise-grade কোড স্ট্যান্ডার্ড বাস্তবায়ন",
+        "Google Play Store-এ প্রোডাকশন অ্যাপ প্রকাশ ও নিয়মিত রক্ষণাবেক্ষণ",
+        "API Integration, পারফরম্যান্স অপ্টিমাইজেশন এবং নতুন ফিচার ডেলিভারি ব্যবস্থাপনা"
+      ]
+    },
+    "technologies": [
+      "Flutter",
+      "Dart",
+      "Riverpod",
+      "Firebase",
+      "REST API",
+      "GitHub",
+      "GitHub Actions",
+      "Android",
+      "iOS"
+    ]
+  },
+  {
+    "key": "ict_division",
+    "company": {
+      "en": "ICT Division Bangladesh",
+      "bn": "আইসিটি ডিভিশন বাংলাদেশ"
+    },
+    "role": {
+      "en": "Trainer",
+      "bn": "প্রশিক্ষক"
+    },
+    "type": {
+      "en": "Python & Flutter",
+      "bn": "পাইথন ও ফ্লাটার"
+    },
+    "duration": {
+      "en": "Oct 2023 - Dec 2024",
+      "bn": "অক্টোবর ২০২৩ - ডিসেম্বর ২০২৪"
+    },
+    "url": "https://sof.edu.bd/",
+    "description": {
+      "en": [
+        "Trained 270+ students",
+        "Core coding concepts",
+        "Problem-solving techniques"
+      ],
+      "bn": [
+        "২৭০+ ছাত্রকে প্রশিক্ষণ প্রদান",
+        "কোর কোডিং ধারণা",
+        "সমস্যা সমাধানের কৌশল"
+      ]
+    },
+    "technologies": [
+      "GitHub",
+      "Python",
+      "Flutter",
+      "Dart",
+      "MySQL"
+    ]
+  },
+  {
+    "key": "orkitt",
+    "company": {
+      "en": "Orkitt.dev",
+      "bn": "Orkitt.dev"
+    },
+    "role": {
+      "en": "Founder & Software Developer",
+      "bn": "প্রতিষ্ঠাতা ও সফটওয়্যার ইঞ্জিনিয়ার"
+    },
+    "type": {
+      "en": "Developer Tools & Open-source Software",
+      "bn": "ডেভেলপার টুলস ও ওপেন-সোর্স সফটওয়্যার"
+    },
+    "duration": {
+      "en": "Present",
+      "bn": "বর্তমান"
+    },
+    "url": "https://orkitt.dev/",
+    "description": {
+      "en": [
+        "Founded Orkitt.dev to build practical tools for developers.",
+        "Developing and publishing Dart and Flutter packages, including PDF tools for complex-script typography and Bengali text."
+      ],
+      "bn": [
+        "ডেভেলপারদের জন্য ব্যবহারিক টুল তৈরি করতে Orkitt.dev প্রতিষ্ঠা করেছি।",
+        "জটিল লিপি ও বাংলা টেক্সটের জন্য PDF টুলসহ Dart ও Flutter প্যাকেজ তৈরি ও প্রকাশ করছি।"
+      ]
+    },
+    "technologies": [
+      "Dart",
+      "Flutter",
+      "HarfBuzz",
+      "PDF",
+      "Open Source"
+    ]
+  }
+]

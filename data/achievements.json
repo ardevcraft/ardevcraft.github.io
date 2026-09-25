@@ -1,0 +1,54 @@
+[
+  {
+    "title": {
+      "en": "🎓 BSc Honors in Physics",
+      "bn": "🎓 পদার্থবিজ্ঞান বিষয়ে বিএসসি সম্মান"
+    },
+    "date": {
+      "en": "October 2024",
+      "bn": "অক্টোবর ২০২৪"
+    },
+    "image": "/logos/nu.webp",
+    "url": "",
+    "details": [
+      {
+        "en": "Specialized in Calculus, Quantum Physics, Thermodynamics, and Scientific Computing",
+        "bn": "ক্যালকুলাস, কোয়ান্টাম ফিজিক্স, থার্মোডায়নামিক্স এবং সায়েন্টিফিক কম্পিউটিংয়ে বিশেষায়িত"
+      },
+      {
+        "en": "Learned C, C++, Java, focusing on Object-Oriented Programming (OOP) in the final semester.",
+        "bn": "সি, সি++, জাভাতে অবজেক্ট-অরিয়েন্টেড প্রোগ্রামিং (OOP) শিখেছি, যা আমার শেষ সেমিস্টারে ছিল।"
+      },
+      {
+        "en": "Strong foundation in mathematical modeling, problem-solving, and algorithms.",
+        "bn": "গাণিতিক মডেলিং, সমস্যা সমাধান এবং অ্যালগরিদমের ক্ষেত্রে শক্ত ভিত্তি তৈরি হয়েছে।"
+      }
+    ]
+  },
+  {
+    "title": {
+      "en": "📜 ICT Division Cross-Platform Flutter App Development Certificate",
+      "bn": "📜 আইসিটি ডিভিশন ক্রস-প্ল্যাটফর্ম ফ্লাটার অ্যাপ ডেভেলপমেন্ট সার্টিফিকেট"
+    },
+    "date": {
+      "en": "October 2021",
+      "bn": "অক্টোবর ২০২১"
+    },
+    "image": "/logos/dev.webp",
+    "url": "",
+    "details": [
+      {
+        "en": "Certified by the ICT Division of Bangladesh, recognizing expertise in Flutter app development for Android, iOS, and Web.",
+        "bn": "বাংলাদেশের আইসিটি ডিভিশন দ্বারা সার্টিফাইড, অ্যান্ড্রয়েড, আইওএস এবং ওয়েবের জন্য ফ্লাটার অ্যাপ ডেভেলপমেন্টে বিশেষজ্ঞ হিসেবে স্বীকৃত।"
+      },
+      {
+        "en": "Acquired hands-on experience in state management (Riverpod, Provider), UI/UX design, API integration, and performance optimization.",
+        "bn": "স্টেট ম্যানেজমেন্ট (Riverpod, Provider), UI/UX ডিজাইন, API ইন্টিগ্রেশন, এবং পারফরমেন্স অপটিমাইজেশনে হাতের কাজ অভিজ্ঞতা অর্জিত।"
+      },
+      {
+        "en": "Learned best practices in cross-platform app development, making applications more scalable and efficient.",
+        "bn": "ক্রস-প্ল্যাটফর্ম অ্যাপ ডেভেলপমেন্টে সেরা প্র্যাকটিস শিখেছি, যা অ্যাপ্লিকেশনগুলিকে আরও স্কেলেবল এবং দক্ষ করে তোলে।"
+      }
+    ]
+  }
+]

@@ -1,0 +1,40 @@
+{
+  "name": "AR Rahman",
+  "avatar": "/cover_pic.png",
+  "avatar_icon": "/admin.webp",
+  "role": {
+    "en": "Flutter & Full-stack Developer",
+    "bn": "Flutter ও ফুল-স্ট্যাক ইঞ্জিনিয়ার"
+  },
+  "location": {
+    "en": "Jhenaidah 7300, Bangladesh",
+    "bn": "ঝিনাইদহ ৭৩০০, বাংলাদেশ"
+  },
+  "socials": [
+    {
+      "type": "github",
+      "label": "GitHub",
+      "url": "https://github.com/ardevcraft"
+    },
+    {
+      "type": "linkedin",
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/arrahmanbd/"
+    },
+    {
+      "type": "phone",
+      "label": "Phone",
+      "url": "tel:+8801517817282"
+    },
+    {
+      "type": "email",
+      "label": "Email",
+      "url": "mailto:arrahman.bd@outlook.com"
+    },
+    {
+      "type": "resume",
+      "label": "Resume",
+      "url": "/resume"
+    }
+  ]
+}
