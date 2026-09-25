@@ -510,7 +510,7 @@
     "types": [
       "package"
     ],
-    "cover": "/projects/pdf_fixer.png",
+    "cover": "https://github.com/ardevcraft/pdf_text_shaper/blob/master/images/icon.jpg?raw=true",
     "links": {
       "github": "https://github.com/ardevcraft/pdf_text_shaper",
       "live": "https://pub.dev/packages/pdf_text_shaper"
